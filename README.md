@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Goosean
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Python
+- 📫 Insta: 2tayw1thm3
